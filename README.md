@@ -32,6 +32,8 @@ Ready to join the fun? Follow these steps to get started:
    Grab your own copy of the project to start tinkering:
    ```bash
    git clone https://github.com/your-username/drum-kit.git
+   cd drum-kit
+
    ```
 
 2. **Make Your Changes:**  
@@ -48,6 +50,11 @@ Ready to join the fun? Follow these steps to get started:
 
 4. **Open a Pull Request:**  
    Share your awesome updates with the community!
+Go to your repository on GitHub.
+Switch to the branch where you made changes.
+Click on "Pull Request" on GitHub’s interface.
+Add a title and description for your changes.
+Click "Create Pull Request" to submit your changes for review.
 
 ---
 
